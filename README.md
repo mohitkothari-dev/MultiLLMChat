@@ -4,7 +4,7 @@ A powerful chatbot interface that enables parallel conversations with multiple L
 
 ## Overview
 
-The Multimodel Chatbot Application revolutionizes the way users interact with AI models by enabling simultaneous conversations with multiple LLMs. Instead of querying different AI models separately, users can send a single prompt and receive multiple responses in parallel, saving time and providing richer insights.
+The Multi-model Chatbot Application revolutionizes the way users interact with AI models by enabling simultaneous conversations with multiple LLMs. Instead of querying different AI models separately, users can send a single prompt and receive multiple responses in parallel, saving time and providing richer insights.
 
 ## Features
 
